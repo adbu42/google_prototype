@@ -72,7 +72,7 @@ with open(url_with_redirects_graph_file, 'r') as f:
 
 # Create an output file in Gephi format
 output_file = f'{target_domain}.gexf'
-nx.write_gexf(G, output_file, version='1.2')
+nx.write_gexf(G, output_file, version='1.2draft')
 
 # Count the nodes and edges
 node_count = G.number_of_nodes()
