@@ -1,0 +1,16 @@
+Node ID	Hub	Authority
+Node: best, Hubs: -0.00000000, Authority: 0.57735027
+Node: real6, Hubs: 0.18301270, Authority: -0.00000000
+Node: real8, Hubs: -0.00000000, Authority: -0.00000000
+Node: real2, Hubs: 0.18301270, Authority: 0.21132487
+Node: real3, Hubs: 0.13397460, Authority: 0.21132487
+Node: real4, Hubs: 0.18301270, Authority: -0.00000000
+Node: real5, Hubs: 0.18301270, Authority: -0.00000000
+Node: real7, Hubs: 0.13397460, Authority: -0.00000000
+Node: spam1, Hubs: 0.00000000, Authority: 0.00000000
+Node: spam_receiver, Hubs: -0.00000000, Authority: 0.00000000
+Node: spam2, Hubs: 0.00000000, Authority: -0.00000000
+Node: spam3, Hubs: 0.00000000, Authority: -0.00000000
+Node: spam4, Hubs: 0.00000000, Authority: 0.00000000
+Node: spam5, Hubs: 0.00000000, Authority: -0.00000000
+Node: spam6, Hubs: 0.00000000, Authority: -0.00000000
