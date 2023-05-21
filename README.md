@@ -8,3 +8,5 @@ hits calculation: calculates hub and authority scores on the TestDataset
 search prototype: uses the Levenshtein distance to return pages from a word query.
 
 visualize_dataset_calculate_pagerank: shows the TestDataset as a graph and calculates the pagerank values. Writes the Pagerank values to the pagerank_results file.
+
+url_filtration: allows you to specify a domain that will then be extracted from the dataset into a graph file that can be read into Gephi.
